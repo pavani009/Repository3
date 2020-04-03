@@ -1,0 +1,2 @@
+Hello welcome to git example
+store file in git
